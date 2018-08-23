@@ -20,3 +20,6 @@ The objective of this assignment was to build a train schedule borad app using G
 * Javascript
 * JQuery
 * Google Firebase Database
+
+###Deployed Link
+https://tywi6665.github.io/Train-Scheduler/
